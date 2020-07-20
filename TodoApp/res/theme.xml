@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="9" useXmlUI="false">
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <val key="Label.dis#derive" value="Label" />
+        <font key="Label.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="3.5" />
+        <val key="Label.padUnit" value="2,2,2,2" />
+        <val key="Label.padding" value="4.0,4.0,3.0,3.0" />
+        <val key="Label.press#derive" value="Label" />
+        <val key="Label.sel#derive" value="Label" />
+        <border key="Task.border" type="line" millimeters="false" thickness="2.0" color="13421772" />
+        <val key="Task.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="Task.padding" value="0.0,2.0,0.0,0.0" />
+        <val key="Title.fgColor" value="ffffff" />
+        <font key="Title.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="7.0" />
+        <val key="Title.transparency" value="0" />
+        <border key="ToggleButton.border" type="empty" />
+        <val key="ToggleButton.dis#derive" value="ToggleButton" />
+        <val key="ToggleButton.fgColor" value="cfcfcf" />
+        <val key="ToggleButton.press#derive" value="ToggleButton" />
+        <val key="ToggleButton.press#fgColor" value="6868FD" />
+        <border key="ToggleButton.sel#border" type="empty" />
+        <val key="ToggleButton.sel#derive" value="ToggleButton" />
+        <val key="ToggleButton.transparency" value="0" />
+        <val key="Toolbar.bgImage" value="todo-title.jpg" />
+        <val key="Toolbar.bgType" value="33" />
+        <border key="Toolbar.border" type="empty" />
+        <val key="Toolbar.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="Toolbar.padUnit" value="2,2,2,2" />
+        <val key="Toolbar.padding" value="6.0,3.0,3.0,3.0" />
+        <val key="Toolbar.transparency" value="255" />
+    </theme>
+    <image name="todo-title.jpg"  />
+</resource>
